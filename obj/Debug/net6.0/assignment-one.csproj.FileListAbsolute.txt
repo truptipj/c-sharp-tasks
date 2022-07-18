@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\.net projects\assignment-one\bin\Debug\net6.0\assignment-one.exe
+C:\Users\Dell\Documents\.net projects\assignment-one\bin\Debug\net6.0\assignment-one.deps.json
+C:\Users\Dell\Documents\.net projects\assignment-one\bin\Debug\net6.0\assignment-one.runtimeconfig.json
+C:\Users\Dell\Documents\.net projects\assignment-one\bin\Debug\net6.0\assignment-one.dll
+C:\Users\Dell\Documents\.net projects\assignment-one\bin\Debug\net6.0\assignment-one.pdb
+C:\Users\Dell\Documents\.net projects\assignment-one\obj\Debug\net6.0\assignment-one.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\.net projects\assignment-one\obj\Debug\net6.0\assignment-one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\.net projects\assignment-one\obj\Debug\net6.0\assignment-one.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\.net projects\assignment-one\obj\Debug\net6.0\assignment-one.AssemblyInfo.cs
+C:\Users\Dell\Documents\.net projects\assignment-one\obj\Debug\net6.0\assignment-one.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\.net projects\assignment-one\obj\Debug\net6.0\assignment-one.dll
+C:\Users\Dell\Documents\.net projects\assignment-one\obj\Debug\net6.0\refint\assignment-one.dll
+C:\Users\Dell\Documents\.net projects\assignment-one\obj\Debug\net6.0\assignment-one.pdb
+C:\Users\Dell\Documents\.net projects\assignment-one\obj\Debug\net6.0\assignment-one.genruntimeconfig.cache
+C:\Users\Dell\Documents\.net projects\assignment-one\obj\Debug\net6.0\ref\assignment-one.dll
