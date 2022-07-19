@@ -9,18 +9,18 @@ namespace Assignment_one
             //if statement
             if (20 > 10)
             {
-                Console.WriteLine("if statement:- 20 is greater than 10" + "\n");
+                Console.WriteLine("20 is greater than 10");
             }
 
             //if else statement
             int num = 10;
             if (num > 20)
             {
-                Console.WriteLine("if else statement:- 10 is greater" + "\n");
+                Console.WriteLine("10 is greater");
             }
             else
             {
-                Console.WriteLine("if else statement:- 20 is greater" + "\n");
+                Console.WriteLine("20 is greater");
             }
 
             //if else if statement
@@ -29,15 +29,15 @@ namespace Assignment_one
             int c = 30;
             if (a > b && a > c)
             {
-                Console.WriteLine("if else if statement:- a is greater" + "\n");
+                Console.WriteLine("a is greater");
             } 
             else if (b > a && b > c)
             {
-                Console.WriteLine("if else if statement:- b is greater" + "\n");
+                Console.WriteLine("b is greater");
             } 
             else if (c > a && c > b)
             {
-                Console.WriteLine("if else if statement:- c is greater" + "\n");
+                Console.WriteLine("c is greater");
             }
 
             //switch statement
@@ -45,16 +45,16 @@ namespace Assignment_one
             switch (month)
             {
                 case "one":
-                    Console.WriteLine("switch statement:- It is Jan" + "\n");
+                    Console.WriteLine("It is Jan");
                         break;
                 case "two":
-                    Console.WriteLine("switch statement:- It is Feb" + "\n");
+                    Console.WriteLine("It is Feb");
                     break;
                 case "three":
-                    Console.WriteLine("switch statement:- It is March" + "\n");
+                    Console.WriteLine("It is March");
                     break;
                 case "four":
-                    Console.WriteLine("switch statement:- It is April" + "\n");
+                    Console.WriteLine("It is April");
                     break;
             }
 
@@ -63,13 +63,13 @@ namespace Assignment_one
             switch (day)
             {
                 case 1:
-                    Console.WriteLine("switch (default) statement:- It is Monday" + "\n");
+                    Console.WriteLine("It is Monday");
                     break;
                 case 2:
-                    Console.WriteLine("switch (default) statement:- It is Tuesday" + "\n");
+                    Console.WriteLine("It is Tuesday");
                     break;
                 default:
-                    Console.WriteLine("switch (default) statement:- Another Day" + "\n");
+                    Console.WriteLine("Another Day");
                     break;
             }
 
@@ -77,7 +77,7 @@ namespace Assignment_one
             int i = 0;
             while (i < 10)
             {
-                Console.WriteLine("while loop:-" + i + "\n");
+                Console.WriteLine(i);
                 i++;
             }
 
@@ -85,7 +85,7 @@ namespace Assignment_one
             int j = 0;
             do
             {
-                Console.WriteLine("do while:-" + i + "\n");
+                Console.WriteLine(i);
                 j++;
             }
             while (j < 5);
@@ -93,13 +93,13 @@ namespace Assignment_one
             //for loop
             for (int x = 0; x < 5; x += 2)
             {
-                Console.WriteLine("for loop:-" + x + "\n");
+                Console.WriteLine(x);
             }
             //for each loop
             string[] fruits = { "grapes", "mango", "banana" };
             foreach (string fruit in fruits)
             {
-                Console.WriteLine("for each loop:-" + fruit + "\n");
+                Console.WriteLine(fruit);
             }
                 //break statement
                 for (int y = 0; y < 7; y++)
@@ -108,7 +108,7 @@ namespace Assignment_one
                 {
                     break;
                 }
-                Console.WriteLine("break statement:-" + y + "\n");
+                Console.WriteLine(y);
             }
             //continue statement
             for (int w = 0; w < 7; w++)
@@ -117,7 +117,7 @@ namespace Assignment_one
                 {
                     continue;
                 }
-                Console.WriteLine("continue statement:-" + w + "\n");
+                Console.WriteLine(w);
             }
 
           
